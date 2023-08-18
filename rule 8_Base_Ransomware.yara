@@ -1,7 +1,7 @@
 rule Eight_Base_Ransomware{
     meta:
     Description ="Rule for Detecting 8Base Rasonmware and all phobos family"
-    auther="@FarghlyMal"
+    author="@FarghlyMal"
     Cape_type ="8Base payload"
     Date="8/18/2023"
     strings:
