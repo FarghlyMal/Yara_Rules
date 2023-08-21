@@ -1,7 +1,7 @@
 rule Domino_BackDoor {  
     meta:  
     description="Dectect Domino Backdoor"  
-    author     ="@AzizMal"  
+    author     ="@FarghlyMal"  
     date       ="2023/4/24"  
     hash       ="4ED1348A9A1A6917DBF77415C41CF7D19552394BCF76586E81516502C39D407C"  
     
