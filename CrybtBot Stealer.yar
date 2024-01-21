@@ -1,4 +1,4 @@
-rule CrybtBot
+rule CrybtBot Stealer
 {
     meta:
     description="This Role Detects unpacked version of CryptBot Stealer, you can use it for memory scan."
