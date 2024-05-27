@@ -2,7 +2,7 @@ rule TrollAgent_Kimsuky_Stealer
 {
 meta:
 description = "Detect TrollAgent Stealer"
-author = "DARK ATLAS Squad"
+author = "Aziz Farghly"
 date = "2024-05-16"
 version = "1.0"
 strings:
